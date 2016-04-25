@@ -6,7 +6,7 @@ typedef unsigned char boolean;
 
 #define	TRUE				1
 #define	FALSE				0
-#define NOT_FOUND_INDEX		-1
+#define NOT_FOUND_INDEX			-1
 
 typedef struct HUGE_NUM
 {
